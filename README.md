@@ -16,85 +16,97 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 Über Mich</h3>
 
 ###
 
-<p align="left">Ich bin der Marcel,bin 37 Jahre alt und komme aus Dortmund.<br>Meine Leidenschaft ist es, stundenlang vor dem PC zu sitzen und habe mich dafür entschieden, eine Weiterbildung bei Techstarter zu machen.<br>Dort lerne ich viel über das Programmieren mit Javascript und React, aber auch agiles Arbeiten in einer Gruppe nach Scrum.<br>Die Weiterbildung lehrt mich soviel neues über die Moderne IT Welt und ich habe richtig Spaß daran mich weiterzubilden.<br>Momentan macht es mir am meißten Spaß mich mit dem Amazon Web Service auseinander zu setzen.<br><br>Unten findest du ein paar Programme und Scriptsprachen, mit denen ich mich in der Weiterbildung auseinander gesetzt habe.<br><br>- 🔭 Momentan bin ich noch Student bei Techstarter als Cloud Computing/Web Developer & DevOps<br>- 📚 Momentan lerne ich viel über Javascript,React,NodeJS,AWS,Docker,Microsoft Azure,SCRUM uvm.<br>- ⚡ In meiner Freizeit bin ich gerne in meinem Garten am arbeiten und ich habe ein kleines Nerd Hobby und sammle Pokemon Karten</p>
+<p align="left">Hallo! Mein Name ist Marcel, ich bin 37 Jahre alt und komme aus Dortmund. Mit einer großen Leidenschaft für Technologie habe ich mich entschieden, eine Weiterbildung im Bereich <strong>Cloud Computing, Web Development und DevOps</strong> bei <strong>Techstarter</strong> zu absolvieren. Hier erweitere ich täglich mein Wissen und meine Fähigkeiten im Bereich moderner Softwareentwicklung und IT-Architekturen.<br><br>
+Mein Fokus liegt auf der Entwicklung von <strong>skalierbaren Webanwendungen</strong> und der Nutzung von <strong>Cloud-Technologien</strong> wie AWS und Docker, kombiniert mit agilem Arbeiten nach Scrum. Diese Weiterbildung ist nicht nur ein Karriereschritt, sondern auch eine Möglichkeit, meine Begeisterung für moderne Technologien zu vertiefen.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🔭 Aktuelle Projekte</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
+<ul align="left">
+  <li><strong>Pokemon Card Scanner:</strong> Ein Webprojekt mit einer Architektur basierend auf AWS Lambda, S3, Textract und einer Frontend-Integration mit React und Radix UI. Dabei setze ich moderne Tools wie Docker, CI/CD-Pipelines (GitHub Actions) und Jest für Testautomatisierung ein.</li>
+  <li><strong>Entwicklung einer skalierbaren Infrastruktur:</strong> Fokus auf Infrastructure as Code mit Terraform, Container-Orchestrierung und DevOps-Automatisierung.</li>
+</ul>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">💻 Fähigkeiten und Technologien</h3>
 
 ###
 
-<p align="left"></p>
+<ul align="left">
+  <li>Frontend: React, Radix UI, JavaScript, HTML5, CSS3</li>
+  <li>Backend: Node.js, Express.js, REST APIs</li>
+  <li>Cloud: Amazon Web Services (AWS), Docker, Microsoft Azure</li>
+  <li>Tools: Git, GitHub Actions, Terraform, Ansible</li>
+  <li>Testing: Jest, Supertest</li>
+  <li>Datenbanken: MongoDB, MySQL, SQLite</li>
+  <li>Agile Methodik: Scrum, Jira</li>
+</ul>
 
 ###
 
-<div align="left">
-</div>
+<h3 align="left">📚 Derzeitiges Lernen</h3>
 
 ###
 
-<div align="left">
-</div>
+<ul align="left">
+  <li>Cloud-Architekturen: Aufbau und Optimierung skalierbarer, serverloser Lösungen.</li>
+  <li>Container-Technologien: Docker und Kubernetes für DevOps.</li>
+  <li>Testautomatisierung: End-to-End- und Unit-Tests mit Jest und Testing Library.</li>
+</ul>
 
 ###
 
-<div align="left">
-</div>
+<h3 align="left">⚡ Fun Facts</h3>
 
 ###
+
+<ul align="left">
+  <li><strong>Hobbys:</strong> Neben meiner Arbeit bin ich gerne in meinem Garten aktiv und habe ein Faible für das Sammeln von Pokemon-Karten.</li>
+  <li><strong>Nerdiger Hintergrund:</strong> Ich habe eine besondere Begeisterung dafür, Probleme zu lösen und neue Technologien zu entdecken.</li>
+</ul>
+
+###
+
+<h3 align="left">🛠 Technologien und Tools</h3>
+
+###
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+###
+
+<h3 align="left">🔗 Kontaktiere mich</h3>
+
+###
+
+<ul align="left">
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marcel-welk-572a412ab/">Marcel Welk</a></li>
+  <li><strong>E-Mail:</strong> deine-email@example.com</li>
+</ul>
+
+###
+
+<h3 align="left">🔥 GitHub Stats:</h3>
+
+###
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=radical" alt="Marcel's GitHub Stats" />
+</p>
