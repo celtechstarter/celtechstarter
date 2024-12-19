@@ -47,7 +47,7 @@ Mein Fokus liegt auf der Entwicklung von <strong>skalierbaren Webanwendungen</st
   <li>Tools: Git, GitHub Actions, Terraform, Ansible</li>
   <li>Testing: Jest, Supertest</li>
   <li>Datenbanken: MongoDB, MySQL, SQLite</li>
-  <li>Agile Methodik: Scrum, Jira</li>
+  <li>Agile Methodik: Scrum, Jira,Monday Board</li>
 </ul>
 
 ###
@@ -98,15 +98,7 @@ Mein Fokus liegt auf der Entwicklung von <strong>skalierbaren Webanwendungen</st
 
 <ul align="left">
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marcel-welk-572a412ab/">Marcel Welk</a></li>
-  <li><strong>E-Mail:</strong> deine-email@example.com</li>
+  <li><strong>E-Mail:</strong> marcel.welk87@gmail.com</li>
 </ul>
 
-###
 
-<h3 align="left">🔥 GitHub Stats:</h3>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=radical" alt="Marcel's GitHub Stats" />
-</p>
