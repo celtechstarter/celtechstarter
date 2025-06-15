@@ -14,7 +14,7 @@
 
 <p align="left">
 Hello! My name is Marcel, I am 38 years old and based in Dortmund. With a deep passion for technology, I decided to pursue a specialization in <strong>Cloud Computing, Web Development, and DevOps</strong> through the <strong>Techstarter program</strong>. Every day, I expand my knowledge and skills in modern software development and IT architectures.<br><br>
-My true passion lies at the <strong>intersection of Artificial Intelligence and robust cloud infrastructures</strong>. I am driven by the potential of <strong>diverse Large Language Models (LLMs)</strong> and cutting-edge AI tools to build highly intelligent, scalable, and user-centric web applications. I actively explore and work with various leading AI models like Google Gemini, OpenAI, Anthropic, and DeepSeek, utilizing the best fit for diverse project needs. This journey is not just a career step but also an opportunity to deepen my enthusiasm for modern technologies, innovative problem-solving, and the exciting new frontiers of AI-driven development.
+My true passion lies at the **intersection of Artificial Intelligence and robust cloud infrastructures, with a strong focus on automation**. I am driven by the immense potential of **diverse Large Language Models (LLMs)** and cutting-edge AI tools to build highly intelligent, scalable, and **automated web applications and workflows**. I actively explore and work with various leading AI models like Google Gemini, OpenAI, Anthropic, and DeepSeek, utilizing the best fit for diverse project needs. This journey is not just a career step but also an opportunity to deepen my enthusiasm for modern technologies, innovative problem-solving, and the exciting new frontiers of AI-driven development and intelligent automation.
 </p>
 
 <h3 align="left">🔭 Current Projects & AI Focus</h3>
@@ -54,7 +54,7 @@ My true passion lies at the <strong>intersection of Artificial Intelligence and 
 <ul align="left">
   <li><strong>Frontend:</strong> React, Radix UI, JavaScript, HTML5, CSS3</li>
   <li><strong>Backend:</strong> Node.js, Express.js, REST APIs</li>
-  <li><strong>Cloud Platforms:</strong> Amazon Web Services (AWS), Microsoft Azure, **Google Cloud**, Vercel, Render.com</li>
+  <li><strong>Cloud Platforms:</strong> Amazon Web Services (AWS), Microsoft Azure, Google Cloud, Vercel, Render.com</li>
   <li><strong>AI & Machine Learning:</strong> Diverse LLMs (Google Gemini, OpenAI, Anthropic, DeepSeek), Prompt Engineering, Generative AI applications, AI-assisted development</li>
   <li><strong>DevOps & Containerization:</strong> Docker, Git, GitHub Actions, Terraform, Ansible, CI/CD</li>
   <li><strong>Databases:</strong> MongoDB, MySQL, SQLite</li>
@@ -66,8 +66,9 @@ My true passion lies at the <strong>intersection of Artificial Intelligence and 
 <h3 align="left">📚 Currently Learning & Exploring</h3>
 
 <ul align="left">
-  <li><strong>Advanced Generative AI:</strong> Deepening knowledge in prompt engineering, exploring RAG architectures, and fine-tuning LLMs for specific applications and diverse model integration.</li>
-  <li><strong>Cloud-Native AI Solutions:</strong> Building and optimizing scalable AI-driven solutions on AWS, Azure, and **Google Cloud**.</li>
+  <li><strong>Advanced Generative AI & AI Management:</strong> Deepening knowledge in prompt engineering, exploring RAG architectures, fine-tuning LLMs, and pursuing further education towards an **AI Manager** role or similar strategic AI applications.</li>
+  <li><strong>Intelligent Automation Platforms:</strong> Intensively exploring and building integrations with low-code/no-code automation tools like **Make.com, n8n, and Zapier** for powerful AI-driven workflows.</li>
+  <li><strong>Cloud-Native AI Solutions:</strong> Building and optimizing scalable AI-driven solutions on AWS, Azure, and Google Cloud.</li>
   <li><strong>Container Orchestration:</strong> Mastering Kubernetes for robust and scalable application deployments.</li>
 </ul>
 
@@ -75,7 +76,7 @@ My true passion lies at the <strong>intersection of Artificial Intelligence and 
 
 <ul align="left">
   <li><strong>Hobbies:</strong> In my free time, I enjoy gardening and collecting Pokémon cards.</li>
-  <li><strong>Geeky Side:</strong> I am passionate about solving complex problems, building innovative solutions at the cutting edge of technology, and continuously discovering how AI can transform existing paradigms, including its creative applications.</li>
+  <li><strong>Geeky Side:</strong> I am passionate about solving complex problems, building innovative solutions at the cutting edge of technology, and continuously discovering how AI can transform existing paradigms, with a strong focus on intelligent automation and strategic AI application.</li>
 </ul>
 
 <h3 align="left">🛠 Technologies and Tools</h3>
@@ -89,7 +90,7 @@ My true passion lies at the <strong>intersection of Artificial Intelligence and 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
