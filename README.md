@@ -98,14 +98,13 @@ Methodik:      Scrum, agiles Arbeiten
 ---
 
 ## 🧠 Mein Ansatz
+Fast Prototyping mit AI & Vibe Coding.
+Ich nutze KI-Tools um Ideen schnell in funktionierende Apps zu verwandeln. Dabei lerne ich Schritt für Schritt mehr über den Code dahinter.
 
-**Fast Prototyping mit AI & Vibe Coding.**
-
-Ich nutze KI-Tools um schnell funktionierende Prototypen zu bauen, dann Refactoring für Production-Code. So komme ich in Wochen zu Ergebnissen, die sonst Monate dauern würden.
-
-- Idee → Prototyp mit KI → Testen → Refactoren → Live
-- Automatisierung wo möglich (CI/CD, Deployment)
-- Fokus auf funktionierende Ergebnisse
+Idee → Prototyp mit KI → Testen → Anpassen → Live
+Automatisierung wo möglich (CI/CD, Deployment)
+Fokus auf funktionierende Ergebnisse
+Learning by Doing
 
 ---
 
