@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Über mich
 
-Ich baue Web-Apps mit KI-Tools und bringe sie live ins Internet. Klassisches Programmieren ist nicht mein Ding – aber mit Claude, ChatGPT und Co. setze ich Projekte in Wochen um, für die andere Monate brauchen.
+Ich baue Web-Apps mit KI-Tools und bringe sie live ins Internet. Meine Stärke liegt nicht im Code selbst, sondern darin, die richtigen Tools zu kombinieren, Probleme zu lösen und Projekte zum Laufen zu bringen. Die Grundlagen in JavaScript und Python habe ich – den Rest lerne ich Stück für Stück dazu.
 
 **Mein Background:**
 - 🎮 **7 Jahre Gameserver-Administrator** – Spieler-Support, Server-Wartung, DDoS-Schutz
