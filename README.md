@@ -103,11 +103,18 @@ Linux:         Ubuntu Server, SSH, Systemadministration
 
 **Gelernt in der Weiterbildung:**
 ```
-Cloud:         AWS (EC2, S3, Lambda), Azure (VMs, Storage)
-IaC:           Terraform, Ansible (Grundlagen)
-Scripting:     Bash, Python
-Datenbanken:   PostgreSQL, MongoDB, MySQL
-Methodik:      Scrum, agiles Arbeiten
+Programmierung:    Python, JavaScript, CSS, HTML
+Web Development:   React, Node.js, REST APIs, Webapps gebaut und gehostet
+AWS (praktisch):   EC2 Instanzen erstellt, Firewalls konfiguriert, Load Balancer,
+                   S3, Lambda, VPC, Security Groups, IAM, Webapps auf EC2 gehostet
+Azure:             VMs, Storage, Grundlagen Cloud Services, AZ-900 Zertifizierung
+IaC:               Terraform, Ansible
+CI/CD:             Jenkins, GitHub Actions, Deployment Pipelines
+Monitoring:        Grafana
+Datenbanken:       PostgreSQL, MongoDB, MySQL
+Linux:             Ubuntu, Bash Scripting, Systemadministration (LPIC-1)
+Cloud Computing:   Kostenmodelle, Cloud Ressourcen, Infrastruktur Planung
+Methodik:          Scrum, agiles Arbeiten
 ```
 
 ---
